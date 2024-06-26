@@ -1,0 +1,17 @@
+/* Button.css */
+.custom-button {
+    background-color: #4CAF50; /* Green background */
+    border: none; /* Remove border */
+    color: white; /* White text */
+    padding: 15px 32px; /* Some padding */
+    text-align: center; /* Centered text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Make the button inline element */
+    font-size: 16px; /* Increase font size */
+    margin: 4px 2px; /* Add some margin */
+    cursor: pointer; /* Pointer/hand icon */
+    border-radius: 12px; /* Rounded corners */
+    transition-duration: 0.4s; /* Make the transition smooth */
+  }
+  
+  

@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    gap: 5rem;
+    padding: 25px 10px;
+    font-size: 20px;
+    
+}
+.h{
+    border-radius: 100%;
+    padding: 5px;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+     border: 3px solid; 
+     height: 80px; 
+    /* background-color: aqua; */
+    
+}
